@@ -81,10 +81,6 @@ The application collects and evaluates the following metrics for each player:
   - The best player in a match or the man of the tournament is displayed.
   - A pie chart visualizing player points distribution is shown.
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 
 ## Contributing
 
