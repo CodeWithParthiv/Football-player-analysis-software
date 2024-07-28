@@ -89,8 +89,6 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
 MIT License
 
 Copyright (c) 2024 CodeWithParthiv
